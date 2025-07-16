@@ -1,0 +1,1 @@
+# Scrapping-Jurnal-SINTA-Scopus-and-Schoolar
